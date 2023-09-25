@@ -2,8 +2,8 @@
 
 ## Links
 
-- solution URL: 
-- Live site URL:  
+- solution URL: https://github.com/TTsintsadze/interactivePricing-main
+- Live site URL: https://interactive-pricing-main-eta.vercel.app/
 
 ### Built With
 
